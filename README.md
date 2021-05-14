@@ -3,11 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aytuug&label=Profile%20views&color=0e75b6&style=flat" alt="aytuug" /> </p>
 
-- 🌱 I’m currently learning **Java,Python,Spring,JS,React**
-
-- 💬 Ask me about **Java,Python,Spring,JS,React**
-
-- 📫 How to reach me **https://www.linkedin.com/in/aytugakin/**
+- 🌱 **Java,Python,Spring,JS,React**
+**https://www.linkedin.com/in/aytugakin/**
 
 
 <h3 align="left">Languages and Tools:</h3>
